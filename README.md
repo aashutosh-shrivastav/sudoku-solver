@@ -1,4 +1,4 @@
-#Python Sudoku Solver
+# Python Sudoku Solver
 
 Input : An array with zero indexed cordinates and value of the cells of the sudoku board.
 
